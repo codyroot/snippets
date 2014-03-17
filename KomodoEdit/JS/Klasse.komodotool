@@ -1,0 +1,20 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Klasse", 
+  "value": [
+    "var [[%tabstop1:Klasse]] = function ([[%tabstop:para]]) {", 
+    "    this.[[%tabstop:vars]] = [[%tabstop:val]];", 
+    "};", 
+    "", 
+    "[[%tabstop1]].prototype.[[%tabstop:proto]] = function([[%tabstop:para]]){", 
+    "    this.[[%tabstop:vars]] = [[%tabstop:val]];", 
+    "};!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
+}

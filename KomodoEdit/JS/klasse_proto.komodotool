@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "klasse proto", 
+  "value": [
+    "[[%tabstop:Klasse]].prototype.[[%tabstop:proto]] = function([[%tabstop:para]]){", 
+    "    this.[[%tabstop:vars]] = [[%tabstop:val]];", 
+    "};!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
+}

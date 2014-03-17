@@ -1,0 +1,25 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "IIFE - window", 
+  "value": [
+    "(function ([[%tabstop1:window]]) {", 
+    "    \"use strict\";", 
+    "", 
+    "    var [[%tabstop2:var]];  ", 
+    "", 
+    "", 
+    "    if ([[%tabstop1]].[[%tabstop2]]) {", 
+    "        throw new Error('[[%tabstop:Error]]');", 
+    "    } else {", 
+    "        [[%tabstop1]].[[%tabstop2]] = [[%tabstop2]];", 
+    "    }", 
+    "}(typeof window === 'undefined' ? this : window));!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.12", 
+  "indent_relative": "false", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}
